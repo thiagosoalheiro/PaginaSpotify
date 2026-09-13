@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# 🎧 Spotify Clone — Projeto de Estudo (HTML, CSS & JavaScript)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone da interface do Spotify desenvolvido durante um curso Alura de **HTML, CSS e JavaScript**, com o objetivo de praticar estruturação de páginas, estilização e interatividade com JavaScript puro.
 
-## Available Scripts
+> ⚠️ **Aviso:** este projeto foi feito no início dos meus estudos em desenvolvimento web. Nem todo o código está salvo ou atualizado neste repositório — o que está aqui é o **essencial** da versão que consegui recuperar/organizar até o momento. Alguns recursos podem estar incompletos ou não corresponder 100% ao resultado final visto no curso.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🛠️ Tecnologias utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **HTML5** — estruturação da página
+- **CSS3** — estilização e layout
+- **JavaScript** — interatividade (ex.: play/pause, navegação entre seções)
+- Desenvolvido com **Visual Studio Code (VSCode)**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Funcionalidades
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [X] Layout inspirado na interface do Spotify
+- [X] Barra lateral de navegação
+- [X] Player de música (play/pause, avançar/voltar)
+- [X] Lista de playlists/álbuns
+- [X] Responsividade básica
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📚 Sobre o projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Este projeto foi desenvolvido como exercício prático de um curso de front-end, com foco em fixar conceitos de:
+- Estruturação semântica em HTML
+- Estilização com CSS (Flexbox/Grid, cores, tipografia)
+- Manipulação do DOM com JavaScript
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Por ser um projeto do início da minha jornada de aprendizado, ele não reflete necessariamente as melhores práticas atuais de desenvolvimento, pois existem pastas grandes que não consegui implementar por aqui — mas representa uma etapa importante do meu progresso.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📝 Observações
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Algumas funcionalidades vistas no curso podem não estar 100% presentes ou atualizadas aqui.
+- Projeto sem fins comerciais — feito exclusivamente para fins educacionais, sem vínculo oficial com o Spotify.
